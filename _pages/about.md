@@ -9,7 +9,7 @@ I have a background in computer graphics, physics and art, and I love all things
 
 Follow me on my machine learning journey into the unkown as I try to wrap my head around the science behind developing cognition in machines.
 
-I love discussiong all things ML, computer graphics, and cycling.
+I love discussiong all things ML, computer graphics, art, drawing, painting and cycling.
 
 If you like what you see are interested in collaborating, feel free to drop me an email at <mvmuir@gmail.com> or reach out to me on [Twitter](https://twitter.com/MichaelMuir_).
 
