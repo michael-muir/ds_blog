@@ -11,7 +11,7 @@ Follow me on my machine learning journey into the unknown as I try to wrap my he
 
 I love discussing all things ML, computer graphics, art, drawing, painting and cycling.
 
-If you like what you see are interested in collaborating, feel free to drop me an email at <mvmuir@gmail.com> or reach out to me on [Twitter](https://twitter.com/MichaelMuir_).
+If you like what you see are interested in collaborating, feel free to drop me an email at <mvmuir@hotmail.com> or reach out to me on [Twitter](https://twitter.com/MichaelMuir_).
 
 You can also check out my professional resume [here](https://drive.google.com/file/d/1eEmPFYLKTsXMDtWi5V1D4Cks6kEmI3L8/view?usp=sharing).
 
